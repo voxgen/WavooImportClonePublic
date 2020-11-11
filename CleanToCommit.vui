@@ -6,12 +6,14 @@
 		<Language>en-GB</Language>
 	</Languages>
 	<Variants />
-	<LanguagesFilter />
+	<LanguagesFilter>
+		<Language>en-GB</Language>
+	</LanguagesFilter>
 	<VariantsFilter />
 	<States>
 		<State name="StartHere" type="AppInit" status="Draft">
 			<FunctionalSequences></FunctionalSequences>
-			<Notes></Notes>
+			<Notes>added some notes (changes to .vui)</Notes>
 			<TechnicalNotes></TechnicalNotes>
 			<Parameters />
 			<Prompts />

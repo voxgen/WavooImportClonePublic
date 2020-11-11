@@ -13,7 +13,7 @@
 	<States>
 		<State name="StartHere" type="AppInit" status="Draft">
 			<FunctionalSequences></FunctionalSequences>
-			<Notes>added some notes (changes to .vui)</Notes>
+			<Notes>added some notes (changes to .vui) changes 3</Notes>
 			<TechnicalNotes></TechnicalNotes>
 			<Parameters />
 			<Prompts />

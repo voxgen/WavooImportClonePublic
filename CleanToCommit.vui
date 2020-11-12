@@ -23,7 +23,7 @@
 				<Conditions>
 					<ResponseCondition Confidence="N/A">
 						<ConditionContentList>
-							<Text>Start the app resposne change</Text>
+							<Text>Start the app resposne change create new remote branch.</Text>
 						</ConditionContentList>
 						<TaskNotes></TaskNotes>
 						<TechnicalNotes></TechnicalNotes>
